@@ -1,0 +1,21 @@
+canvas{
+    animation-name: b ;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+   }
+   @keyframes b {
+   from{
+       box-shadow: 10px 10px 100px purple;
+   }
+   to{
+       box-shadow: 10px 10px 100px blue;
+   }
+   }
+   h1{
+    font-family: 'Sevillana', cursive;
+    font-size: 48px;
+   }
+   button{
+    font-family: 'Caveat', cursive;
+    font-size:48px;
+   }
